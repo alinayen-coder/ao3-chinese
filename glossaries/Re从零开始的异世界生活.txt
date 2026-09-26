@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：innocentsnow
-更新时间：2026-09-13
+更新时间：2026-09-27
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
@@ -40,6 +40,38 @@ subaru:昴
 Subaru:昴
 Barasu:巴鲁斯
 Betelgeuse:培提尔其乌斯
+Rachins:拉珍斯
+Mimi:蜜蜜
+Camberley:汉巴利
+Gaston:加斯顿
+Fredrica:法兰黛莉卡
+Wilhelm:威尔海姆
+Felix:菲利斯
+Od Laguna:欧德·拉格纳
+Natsuki:菜月
+Natsuki-san:菜月先生
+Old Man Rom:罗姆爷
+Rom:罗姆爷
+Ferris:菲利斯
+Juli:尤里
+Barusu:巴鲁斯
+Subaru-dono:昴殿下
+Emilia-tan:爱蜜莉雅碳
+Subaru-kyun:昴卿
+Otto-bro:奥托兄
+Natsuki-kun:菜月君
+Wilhelm-san:威尔海姆先生
+Garf:加菲
+Ferri-chan:菲利酱
+Hetaro:黑塔罗
+EMT:爱蜜莉雅碳
+E.M.T:爱蜜莉雅碳
+Cruschie:库珥修大人
+Richardo:里卡多
+Satella-san:莎提拉
+Jules:尤里乌斯
+Tivey:缇比
+Big Bro:小哥
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
@@ -53,6 +85,41 @@ spirit:精灵
 Sloth:怠惰
 great spirit:大精灵
 forbidden Library:禁书库
+sword demon:剑鬼
+camp:阵营
+meteor:魔法器
+Great waterfall:大瀑布
+Lugunica:露格尼卡
+Kararagi:卡拉拉基
+Gusteko:古斯提科圣王国
+Vollachia:佛拉基亚帝国
+merchant princess:商人公主
+capital:王都
+captain:大将
+spirit arts user:精灵使
+the beast of the end:终焉之兽
+pops:老板
+loot house:赃物库
+nyew:喵
+nyer:喵
+great spirits:大精灵
+character flag:角色旗
+the bowel hunter:猎肠者
+Warlock of Melancholy:忧郁魔人
+Witch Cultist:魔女教徒
+Witch Factor:魔女因子
+Witch Hunt:魔女狩猎
+Witch of Envy:嫉妒魔女
+Witch of Frost:冰结魔女
+Witch of Gluttony:暴食魔女
+Witch of Greed:强欲魔女
+Witch of Lust:色欲魔女
+Witch of Pride:傲慢魔女
+Witch of Sloth:怠惰魔女
+Witch of Vanity:虚饰魔女
+Witch of Wrath:愤怒魔女
+Nee-sama:姐姐大人
+Sloth:怠惰
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
